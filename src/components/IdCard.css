@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid rgb(41, 40, 40);
+  padding: 10px;
+  margin: 10px;
+}
+.container p {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-left: 10px;
+}
